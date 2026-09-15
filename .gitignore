@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+
+# Compiled files
+*.o
+*.out
+*.exe
+
+# C++ build directories
+build/
+cmake-build-*/
+
+# Debug files
+*.dSYM/
